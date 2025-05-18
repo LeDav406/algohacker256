@@ -3,4 +3,5 @@
    Заменить необходимо 20ую строчку в файле app.py !![2025-05-18_14-07-31](https://github.com/user-attachments/assets/a154fb97-5241-47c5-b967-5713b8f31b8b)
 3) Необходимо установить все нужные библиотеки в терминале IDE командой: pip install -r requirements.txt
 4) Для регистрации на сайте нужно создать аккаунт на Codeforces, и в настройках аккаунта убрать галочку с пункта "Скрывать контактную информацию"
-![2025-05-18_14-10-01](https://github.com/user-attachments/assets/1b66543a-09ad-4f3b-b741-ca52e1b59685)
+  
+  ![2025-05-18_14-10-01](https://github.com/user-attachments/assets/1b66543a-09ad-4f3b-b741-ca52e1b59685)
